@@ -1,6 +1,8 @@
 # MYNTRA-PRODUCT-ANALYSIS
 MYNTRA PRODUCT ANALYSIS REPORT
 ![image](https://github.com/user-attachments/assets/aa93a8bd-e885-4ff5-b605-c60c5628cc1d)
+![image](https://github.com/user-attachments/assets/869125fc-79e0-4f0b-8f53-07011c5db5c4)
+
 
 1. Overview:
 This report provides an analysis of Myntra’s shoe sales, focusing on product ratings, discount sectors, brand-wise performance, and pricing trends. The data has been visualized using Power BI to identify key insights into sales performance.
